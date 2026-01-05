@@ -18,8 +18,9 @@ Each method is implemented separately and evaluated using the same dataset and
 metric (MAE), enabling a structured comparison of their assumptions, strengths,
 and limitations.
 
-The goal of this project is to demonstrate practical understanding of
-recommender system design and evaluation in aN applied context.
+## Core Skills Demonstrated:
+Recommender Systems · Similarity-Based Modeling · Feature Engineering ·
+Model Evaluation (MAE) · Collaborative Filtering · Applied Machine Learning
 
 ---
 
@@ -123,6 +124,7 @@ This repository focuses on:
 - Algorithmic understanding of recommender systems
 - Method comparison and evaluation
 - Applied machine learning reasoning
+
 
 
 
