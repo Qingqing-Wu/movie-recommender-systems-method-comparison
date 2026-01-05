@@ -6,7 +6,7 @@ and evaluation rather than production deployment.
 
 ---
 
-## 30-Second Overview
+## 30-Second Quick View
 
 This project explores three widely used recommendation system paradigms:
 
@@ -123,6 +123,7 @@ This repository focuses on:
 - Algorithmic understanding of recommender systems
 - Method comparison and evaluation
 - Applied machine learning reasoning
+
 
 
 
